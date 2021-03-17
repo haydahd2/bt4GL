@@ -1,0 +1,4 @@
+﻿  bt4.cpp
+d:\study\thuctap\bt4\bt4\bt4.cpp(129): error C2059: syntax error: '}'
+d:\study\thuctap\bt4\bt4\bt4.cpp(129): error C2143: syntax error: missing ';' before '}'
+d:\study\thuctap\bt4\bt4\bt4.cpp(129): error C2238: unexpected token(s) preceding ';'
